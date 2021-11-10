@@ -1,4 +1,4 @@
-package ru.morboui.boocktrackerdataloader.author;
+package ru.morboui.booktrackerdataloader.author;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;

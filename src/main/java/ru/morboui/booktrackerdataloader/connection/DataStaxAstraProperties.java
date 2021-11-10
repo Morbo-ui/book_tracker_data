@@ -1,4 +1,4 @@
-package ru.morboui.boocktrackerdataloader.connection;
+package ru.morboui.booktrackerdataloader.connection;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

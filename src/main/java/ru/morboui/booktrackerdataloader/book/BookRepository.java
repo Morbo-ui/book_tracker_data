@@ -1,9 +1,9 @@
-package ru.morboui.boocktrackerdataloader.author;
+package ru.morboui.booktrackerdataloader.book;
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface AuthorRepository extends CassandraRepository<Author, String> {
+public interface BookRepository extends CassandraRepository<Book, String> {
 
 }

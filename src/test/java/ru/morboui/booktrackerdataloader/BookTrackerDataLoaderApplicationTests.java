@@ -1,10 +1,10 @@
-package ru.morboui.boocktrackerdataloader;
+package ru.morboui.booktrackerdataloader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BoockTrackerDataLoaderApplicationTests {
+class BookTrackerDataLoaderApplicationTests {
 
     @Test
     void contextLoads() {
